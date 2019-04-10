@@ -94,7 +94,6 @@
   "users": [
     {
       "_id": "5cae53af3cb768a502358909",
-      "ID": "2",
       "user_login": "alejandroclose",
       "user_pass": "$P$BvZ6WChg9MXsgpL8wJ0suGz9l3zKhX0",
       "user_email": "alejandroclose@gmail.com",
@@ -104,7 +103,6 @@
     },
     {
       "_id": "5cae53af3cb768a502358913",
-      "ID": "12",
       "user_login": "jchacon",
       "user_pass": "$P$BF8YWsIM7AUs2VbP3DITZW/pjzisFo/",
       "user_email": "j.chaconalvarez@gmail.com",
@@ -114,7 +112,6 @@
     },
     {
       "_id": "5cae53af3cb768a502358914",
-      "ID": "13",
       "user_login": "xavifserra",
       "user_pass": "$P$BbmXOjypUo98EPtApwOsD6RVLIJqLm1",
       "user_email": "xavifserra@gmail.com",
