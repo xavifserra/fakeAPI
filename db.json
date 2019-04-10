@@ -1,57 +1,13 @@
 {
   "recipes": [
     {
-      "_id": "5c9b29563cb76811191ceb34",
-      "post_date": "2006-10-28T19:59:11.000+0000",
-      "post_content": "<p><strong>OLD FASHIONED</strong>: Jack Daniels, Zuckersirup, Angostura, Soda</p>\r\n<p><strong>WHISKEY SOUR</strong>: Jack Daniels, Zitronensaft, Zuckersirup, Orange Juice</p>\r\n\r\n\r\n<p><strong>MANHATAN</strong>: Canadian Club, Vermouth Rosso, Angostura</p>\r\n<p><strong>LYNCHBURG LEMONADE</strong>: Jack Daniels, Triple Sec, Bitter LemonE</p>\r\n<p><strong>KENTUCKY BLIZZARD</strong>: Jack Daniels, Cranberry Juice, Grapefruit Juice</p>\r\n<p><strong>FREEFALL</strong>: Jack Daniels, Malibu, Maracujasaft, LimeJuice, Ananassaft</p>\r\n<p><strong>MINT JULEP</strong>: Four Roses, Zuckersirup, Minze, Angostura, Soda</p>\r\n",
-      "post_title": "Tragos de Whisky ",
-      "post_excerpt": "",
-      "post_status": "publish",
-      "post_modified": "2014-12-04T13:19:31.000+0000",
-      "post_type": "receta",
-      "comment_count": "6"
-    },
-    {
-      "_id": "5c9b29563cb76811191ceb35",
-      "post_date": "2015-02-18T10:01:41.000+0000",
-      "post_content": "Quien haya tenido alguna vez resaca y no haya descubierto como combatirla es que nunca ha oído hablar de la Michelada. Con un refrescante sabor, es perfecta para tomarla a media mañana en un día de sol. Ideal, también, para aquellos que busquen algo más que el sabor de una simple cerveza y tremendamente popular en México y Centroamérica.\r\n\r\nEl nombre se lo dio su supuesto creador, Michel Esper, quien dice la leyenda que siempre optaba por beberse una cerveza con limón, hielo y sal cuando iba a ver jugar al Club Deportivo Potosino. El resto de socios, le imitaban y pedían al camarero una “Michelada”.",
-      "post_title": "Michelada",
-      "post_excerpt": "",
-      "post_status": "publish",
-      "post_modified": "2017-01-16T23:09:27.000+0000",
-      "post_type": "receta",
-      "comment_count": "24"
-    },
-    {
-      "_id": "5c9b29563cb76811191ceb38",
-      "post_date": "2013-08-13T01:02:01.000+0000",
-      "post_content": "El Mojito es una bebida típica de Cuba.  La bebida que pide James Bond  en la película the world is not enough.\r\n\r\nExisten varias teorías detrás del nombre Mojito.  Una de éstas dice que el nombre proviene de “mojo”, un sazonador a base de limón.  Otra teoría dice que a un principio se llamaba <em>mojadito</em>, y con el tiempo se fue acortando hasta llegar a como se dice ahora.\r\n\r\nLa preparación, aunque parece complicada es simple.",
-      "post_title": "Mojito",
-      "post_excerpt": "El Mojito es una bebida típica de Cuba, a base de ron y soda.",
-      "post_status": "publish",
-      "post_modified": "2017-01-07T22:44:32.000+0000",
-      "post_type": "receta",
-      "comment_count": "6"
-    },
-    {
       "_id": "5c9b29563cb76811191ceb3a",
       "post_date": "2006-10-30T08:39:10.000+0000",
-      "post_content": "Este trago es llamado así­ por la forma en la que se mira, una especie de amarillo y anaranjado el cual es como un nuevo despertar! PRUEBALO!\r\n\r\n\r\n\r\n<strong>Ingredientes</strong>\r\n\r\n1 oz. (30 ml. de tequila\r\n\r\n1 oz. (30 ml. de Granadina\r\n\r\nJugo de Naranja (zumo de naranja\r\n\r\n<strong>Preparación</strong>\r\n\r\nEn un vaso con hielo vierta el tequila y la granadina.  Termina de llenar con jugo de naranja y mezclar.",
+      "post_content": "Este trago es llamado así por la forma en la que se mira, una especie de amarillo y anaranjado el cual es como un nuevo despertar! PRUEBALO!\r\n\r\n\r\n\r\n<strong>Ingredientes</strong>\r\n\r\n1 oz. (30 ml. de tequila\r\n\r\n1 oz. (30 ml. de Granadina\r\n\r\nJugo de Naranja (zumo de naranja\r\n\r\n<strong>Preparación</strong>\r\n\r\nEn un vaso con hielo vierta el tequila y la granadina. Termina de llenar con jugo de naranja y mezclar.",
       "post_title": "Tequila Sunrise",
       "post_excerpt": "",
       "post_status": "publish",
       "post_modified": "2014-12-04T13:06:51.000+0000",
-      "post_type": "receta",
-      "comment_count": "8"
-    },
-    {
-      "_id": "5c9b29563cb76811191ceb3b",
-      "post_date": "2015-02-26T12:12:29.000+0000",
-      "post_content": "Cóctel con nombre de reina, el de María I de Inglaterra que recibió el apelativo de “la sanguinaria” tras ordenar una cruel persecución contra los protestantes durante el siglo XVI y provocó que casi 300 terminasen muriendo en la hoguera.\r\n\r\nEn 1921 un barman de París fue el primero en hacer la mezcla y con la ayuda de los clientes buscaron el nombre más horripilante y sangriento posible hasta que surgió el de Bloody Mary. Se dice que es el trago más complejo del mundo, la reina María lo era así que su versión en cóctel no podría ser menos.",
-      "post_title": "Bloody Mary",
-      "post_excerpt": "Cóctel con nombre de reina, el de María I de Inglaterra que recibió el apelativo de “la sanguinaria” tras ordenar una cruel persecución contra los protestantes durante el siglo XVI y provocó que casi 300 terminasen muriendo en la hoguera. ",
-      "post_status": "publish",
-      "post_modified": "2017-01-10T01:27:05.000+0000",
       "post_type": "receta",
       "comment_count": "8"
     },
@@ -91,7 +47,7 @@
     {
       "_id": "5c9b29563cb76811191ceb3f",
       "post_date": "2012-05-30T13:05:43.000+0000",
-      "post_content": "Con nombre de bombardero norteamericano –Boeing B-52- no lanza proyectiles incendiarios pero al beberlo de un trago genera algo parecido en garganta y estómago.A finales de 2009 se hizo muy popular en el norte de Londres gracias a un danés y al fútbol.\r\n\r\nEl Arsenal superó al Liverpool en la Carling Cup gracias a un gol del delantero Nicklas Bendtner. El danés lucía el dorsal 52 y… sí, era conocido por los aficionados como “el bombardero B-52”. En todos los locales y bares del norte de la ciudad son fans desde entonces de este trago. ¡Mange tak Nicklas!\r\n\r\nEste shot se prepara <a title=\"¿Cómo flamear tragos?\" href=\"http://18.223.252.236/receta/como-prenderle-fuego-al-trago-flamear/\">flameado.</a>\r\n\r\n\r\n<strong>Ingredientes</strong>\r\n1/3 oz. de Licor de Café\r\n<div class=\"entry\">1/3 oz. de Crema irlandesa (irish cream\r\n<div class=\"entry\">1/3  oz. de licor de naranja (Grand Marnier<strong>Preparación</strong>\r\nServir con cautela los ingredientes en el orden indicado en un vaso de 'shot' (chupito, cuidando que ninguno de los tres se mezcle.Un truco es usar una cuchara al revés, en la parte curva de la cual se vierten los ingredientes, haciendo que el líquido caiga suavemente.\r\n\r\nSe puede <a href=\"http://18.223.252.236/receta/como-prenderle-fuego-al-trago-flamear/\">flamear</a> el trago o tomarlo directamente como un 'shot'.\r\n\r\n</div>\r\n</div>",
+      "post_content": "Con nombre de bombardero norteamericano –Boeing B-52- no lanza proyectiles incendiarios pero al beberlo de un trago genera algo parecido en garganta y estómago.A finales de 2009 se hizo muy popular en el norte de Londres gracias a un danés y al fútbol.\r\n\r\nEl Arsenal superó al Liverpool en la Carling Cup gracias a un gol del delantero Nicklas Bendtner. El danés lucía el dorsal 52 y… sí, era conocido por los aficionados como “el bombardero B-52”. En todos los locales y bares del norte de la ciudad son fans desde entonces de este trago. ¡Mange tak Nicklas!\r\n\r\nEste shot se prepara <a title=\"¿Cómo flamear tragos?\" href=\"http://18.223.252.236/receta/como-prenderle-fuego-al-trago-flamear/\">flameado.</a>\r\n\r\n\r\n<strong>Ingredientes</strong>\r\n1/3 oz. de Licor de Café\r\n<div class=\"entry\">1/3 oz. de Crema irlandesa (irish cream\r\n<div class=\"entry\">1/3  oz. de licor de naranja (Grand Marnier<strong>Preparación</strong>\r\nServir con cautela los ingredientes en el orden indicado en un vaso de 'shot' (chupito, cuidando que ninguno de los tres se mezcle.Un truco es usar una cuchara al revés, en la parte curva de la cual se vierten los ingredientes, haciendo que el líquido caiga suavemente.\r\n\r\nSe puede <a href=\"http://18.223.252.236/receta/como-prenderle-fuego-al-trago-flamear/\">flamear</a> el trago o tomarlo directamente como un 'shot'.\r\n\r\n</div>\r\n</div>",
       "post_title": "B-52",
       "post_excerpt": "Con nombre de bombardero norteamericano –Boeing B-52- no lanza proyectiles incendiarios pero al beberlo de un trago genera algo parecido en garganta y estómago.A finales de 2009 se hizo muy popular en el norte de Londres gracias a un danés y al fútbol. ",
       "post_status": "publish",
@@ -111,17 +67,6 @@
       "comment_count": "26"
     },
     {
-      "_id": "5c9b29563cb76811191ceb42",
-      "post_date": "2015-02-15T06:48:14.000+0000",
-      "post_content": "Leyendas, rumores, invenciones… son muchas las historias que se mueven alrededor del origen de uno de los cócteles más famosos del mundo.\r\n\r\nEl ron y la Coca-Cola se dieron la mano, simbolizando las buenas relaciones que existían entre cubanos y estadounidenses a finales del siglo XIX.Más de 1.000 kilómetros separaban a la cuna del ron del lugar de nacimiento de la Coca-Cola pero la isla acababa de ganar la Independencia de los españoles. Y lo hizo con la ayuda de unas tropas norteamericanas a las que, según se dice, la Coca-Cola Company se aseguró de que nunca les faltara el refresco de moda entre sus provisiones.\r\n\r\nEn una noche calurosa, bebida en mano, brindaron unos y otros por la independencia recién ganada y el grito fue claro: ¡Cuba Libre!",
-      "post_title": "Cuba Libre",
-      "post_excerpt": "Leyendas, rumores, invenciones… son muchas las historias que se mueven alrededor del origen de uno de los cócteles más famosos del mundo. ",
-      "post_status": "publish",
-      "post_modified": "2017-01-08T00:07:05.000+0000",
-      "post_type": "receta",
-      "comment_count": "5"
-    },
-    {
       "_id": "5c9b29563cb76811191ceb43",
       "post_date": "2011-02-23T05:00:06.000+0000",
       "post_content": "Lo quiero, no lo quiero, lo quiero, no lo quiero… Deja de deshojar la Margarita y pide este trago en la primera oportunidad que se te presente. Creado supuestamente en 1946 por Margarita Sames en una fiesta del cóctel en Acapulco, sus ingredientes representan las principales culturas que han estado presentes en México: el mestizaje español con el tequila, la ocupación francesa y el triple sec y la cultura indígena de la mano del limón.\r\n\r\n<strong>Ingredientes</strong>\r\n\r\n1 1/2 oz. de Tequila\r\n\r\n1 1/2 oz. de Triple Sec\r\n\r\n1 oz. de Jugo de Limón\r\n\r\nHielo\r\n\r\n<strong>Preparación</strong>\r\n\r\nEn una licuadora con, hielo mezclar el jugo de limón, el Tequila y el Triple Sec. Licuar y dejar en forma de granizada (frozen. En el borde de la copa, pasar un limón y voltear en una pequeña montaña de sal. Servir la mezcla y decorar con una rodaja de limón.\r\n",
@@ -131,17 +76,6 @@
       "post_modified": "2015-01-18T11:13:56.000+0000",
       "post_type": "receta",
       "comment_count": "36"
-    },
-    {
-      "_id": "5c9b29563cb76811191ceb44",
-      "post_date": "2015-02-09T09:53:34.000+0000",
-      "post_content": "El término radler consiste basicamente en mezclar cerveza con alguna otra bebida dulce sin alcohol.  Es una bebida refrescante, que al igual que la michelada, es ideal para los calurosos días de verano.  En España le llaman Clara.  ¿Cómo le llaman en tu país?",
-      "post_title": "Radler",
-      "post_excerpt": "Bueno, la cerveza Radler, consiste basicamente en mezclar cerveza clara, con alguna otra bebida dulce sin alcohol. Dicha bebida puede ser Fanta, Sprite, 7-Up, Limonada, Almdudler, o cualquier otra de su preferencia.",
-      "post_status": "publish",
-      "post_modified": "2017-01-16T23:21:49.000+0000",
-      "post_type": "receta",
-      "comment_count": "7"
     },
     {
       "_id": "5c9b29563cb76811191ceb45",
@@ -179,7 +113,7 @@
     {
       "_id": "5c9b29563cb76811191ceb48",
       "post_date": "2006-11-12T17:34:15.000+0000",
-      "post_content": "<p>Que te parece un trago color azul, con un sabor exquicito!!</p>\r\n\r\n\r\n<p><strong>Ingredientes</strong></p>\r\n\r\n<p>Vodka</p>\r\n<p>Curacao</p>\r\n<p>Jugo de limón</p>\r\n<p>Hielo</p>\r\n\r\n<p><strong>Preparación</strong></p>\r\n<p>En un vaso con hielo, preferiblemente un vaso corto mezcla 1 medida de Vodka, 1 medida de Curacao y 1 medida de limonada.Â  Listo!! puedes ahora disfrutar de tu bebida azulada!</p>",
+      "post_content": "<p>Que te parece un trago color azul, con un sabor exquicito!!</p>\r\n\r\n\r\n<p><strong>Ingredientes</strong></p>\r\n\r\n<p>Vodka</p>\r\n<p>Curacao</p>\r\n<p>Jugo de limón</p>\r\n<p>Hielo</p>\r\n\r\n<p><strong>Preparación</strong></p>\r\n<p>En un vaso con hielo, preferiblemente un vaso corto mezcla 1 medida de Vodka, 1 medida de Curacao y 1 medida de limonada. \r\nListo!! puedes ahora disfrutar de tu bebida azulada!</p>",
       "post_title": "Laguna Azul",
       "post_excerpt": "",
       "post_status": "publish",
@@ -190,7 +124,7 @@
     {
       "_id": "5c9b29563cb76811191ceb49",
       "post_date": "2006-11-13T09:34:27.000+0000",
-      "post_content": "¿Qué te parecería mezclar una copa de un delicioso vino blanco frío con un toque de ron? Pues aquí va la receta.\r\n\r\n\r\n\r\n<strong>Ingredientes</strong>\r\n\r\n2 oz. de Ron Blanco\r\n\r\n1 copa de Vino Blanco\r\n\r\n2-4 cucharaditas de Azúcar\r\n\r\n<strong>Preparación</strong>\r\n\r\nMezclar en un vaso o copa el vino blanco y el ron. Agregar el azúcar y ¡listo!",
+      "post_content": "¿Qué te parecería mezclar una copa de un delicioso vino blanco frío con un toque de ron? Pues aquí va la receta.\r\n\r\n\r\n\r\n<strong>Ingredientes</strong>\r\n\r\n2 oz. de Ron Blanco\r\n\r\n1 copa de Vino Blanco\r\n\r\n2-4 cucharaditas de Azúcar\r\n\r\n<strong>Preparación</strong>\r\n\r\nMezclar en un vaso o copa el vino blanco y el ron. Agregar el azúcar y ¡listo!",
       "post_title": "Leon Marino",
       "post_excerpt": "Ron blanco + Vino blanco + Azúcar",
       "post_status": "publish",
@@ -208,28 +142,6 @@
       "post_modified": "2015-01-18T12:34:30.000+0000",
       "post_type": "receta",
       "comment_count": "22"
-    },
-    {
-      "_id": "5c9b29563cb76811191ceb4b",
-      "post_date": "2006-11-13T09:40:18.000+0000",
-      "post_content": "<p>Un licor de durazno muy bueno que puedes usar.</p>\r\n\r\n\r\n<p align=\"left\">Peach Tree, de la marca De Kuyper. Es muy bueno, y si tienen la oportunidad de probarlo lo aconsejo bastante, ya que este da un toque muy especial a cualquier mezcla.</p>\r\n",
-      "post_title": "Peach Tree",
-      "post_excerpt": "",
-      "post_status": "publish",
-      "post_modified": "2014-12-02T10:21:23.000+0000",
-      "post_type": "receta",
-      "comment_count": "1"
-    },
-    {
-      "_id": "5c9b29563cb76811191ceb4c",
-      "post_date": "2006-11-13T09:48:24.000+0000",
-      "post_content": "<p>Kahlua es el licor de cafe mas conocido del mundo. Es dulce, al contrario de su copetencia Borghetti, que es licor de espresso. El Kahlua se puede disfrutar  muy bien en las rocas, mezclado con un poco de leche, o ya sea haciendo cocteles.\r\n</p>\r\n\r\n\r\n<p>El Kahlua tiene 26.5% de alcohol, lo que lo hace no muy fuerte. Una botella de este rico licor oscila entre los 14$-17$. Lo puedes comprar casi en cualquier parte del mundo.</p>\r\n",
-      "post_title": "Kahlua",
-      "post_excerpt": "",
-      "post_status": "publish",
-      "post_modified": "2014-12-02T10:19:39.000+0000",
-      "post_type": "receta",
-      "comment_count": "4"
     },
     {
       "_id": "5c9b29563cb76811191ceb4d",
@@ -252,6 +164,50 @@
       "post_modified": "2015-02-17T18:59:29.000+0000",
       "post_type": "receta",
       "comment_count": "23"
+    },
+    {
+      "_id": "5c9b29563cb76811191ceb4f",
+      "post_date": "2006-11-15T10:52:04.000+0000",
+      "post_content": "Esta es una variación del Long Island Iced Tea, la diferencia es que el tequila se substituye por whisky y la bebida de cola por jugo de arándanos. Y esto crea un sabor totalmente diferente.\r\n\r\n\r\n\r\n<strong>Ingredientes</strong>\r\n\r\n3/4 onzas de whisky\r\n\r\n3/4 onzas de ron blanco\r\n\r\n3/4 onzas vodka\r\n\r\n3/4 onzas ginebra\r\n\r\n3/4 onzas triple sec\r\n\r\n1/2 onzas jugo de limón\r\n\r\n1 onza jugo de arándanos (cranberry\r\n\r\n<strong>Preparación</strong>\r\n\r\nMezclar todos los ingredientes en una coctelera con hielo y agitar. Servir en una copa.",
+      "post_title": "Long Beach Iced Tea",
+      "post_excerpt": "Whisky + Ron blanco + Vodka + Ginebra + Triple sec + Jugo de limón + Jugo de arándanos",
+      "post_status": "publish",
+      "post_modified": "2015-02-17T18:53:06.000+0000",
+      "post_type": "receta",
+      "comment_count": "4"
+    },
+    {
+      "_id": "5c9b29563cb76811191ceb51",
+      "post_date": "2006-11-15T11:53:53.000+0000",
+      "post_content": "Este coctel lo probe la primera vez en un Bar en Austria, llamado KAA. Bonito el lugar, las mejores mesas de billar, buena música, buen ambiente, estar con tus cuates, que mas puedes pedir? Pues un coctel. Yo no era familiar con este coctel, pero al ver los ingredientes supe que tenia que ser delicioso. Y no me equivoque! Lo considero uno de mis favoritos.\r\n\r\n\r\n\r\n<strong>Ingredientes</strong>\r\n\r\n1 onza Brandy de Apricot (albaricoque\r\n\r\n1 onza ron blanco\r\n\r\n1 onza ron oscuro (Coruba 74%, Myers Rum, Appleton Dark\r\n\r\n1/2 onzas jugo de limón\r\n\r\n1 onza jugo de naranja\r\n\r\n1 onza jugo de piña\r\n\r\n1 chorrito pequeno de granadina\r\n\r\n<strong>Preparación</strong>\r\n\r\nMezclar todos los ingredientes en un shaker con bastante hielo.",
+      "post_title": "Zombie",
+      "post_excerpt": "Este coctel lo probe la primera vez en un Bar en Austria, llamado KAA. Bonito el lugar, las mejores mesas de billar, buena música, buen ambiente, estar con tus cuates, que mas puedes pedir? Pues un coctel. Yo no era familiar con este coctel, pero al ver los ingredientes supe que tenia que ser delicioso. Y no me equivoque! Lo considero uno de mis favoritos.",
+      "post_status": "publish",
+      "post_modified": "2015-02-22T22:15:22.000+0000",
+      "post_type": "receta",
+      "comment_count": "2"
+    },
+    {
+      "_id": "5c9b29563cb76811191ceb52",
+      "post_date": "2006-11-15T12:03:26.000+0000",
+      "post_content": "Muy refrescante, este trago es lo mejor que puedes tomar un día caluroso. Consistencia como de granizada, es verdaderamente algo especial.\r\n\r\n\r\n\r\n<strong>Ingredientes</strong>\r\n\r\n1.5 onzas ron oscuro\r\n\r\n1 onza jugo de limón\r\n\r\n1 cucharada de azúcar\r\n\r\n5 fresas\r\n\r\n1/2 taza de hielo\r\n\r\n<strong>Preparación</strong>\r\n\r\nMeter todos los ingredientes en una licuadora con hielo. Licuar hasta que quede estilo 'frappé' (granizada.",
+      "post_title": "Frozen Strawberry Daiquiri",
+      "post_excerpt": "",
+      "post_status": "publish",
+      "post_modified": "2015-02-15T12:39:37.000+0000",
+      "post_type": "receta",
+      "comment_count": "2"
+    },
+    {
+      "_id": "5c9b29563cb76811191ceb54",
+      "post_date": "2006-11-25T17:33:55.000+0000",
+      "post_content": "<p>Un delicioso trago rosado para disfrutar en una tarde tranquila.</p>\r\n\r\n\r\n<p><strong>Ingredientes</strong></p>\r\n<p>Ginebra</p>\r\n<p>Jugo de Limón</p>\r\n<p>Granadina</p>\r\n<p>Clara de Huevo</p>\r\n<p>Hielo</p>\r\n\r\n<p><strong>Preparación</strong></p>\r\n<p>Mezcla bien 2/3 de ginebra, 1/3 de jugo de limón, la clara de huevo y granadina al gusto y listo!</p>",
+      "post_title": "Pink Lady",
+      "post_excerpt": "Un delicioso trago rosado para disfrutar en una tarde tranquila.",
+      "post_status": "publish",
+      "post_modified": "2015-01-18T10:57:22.000+0000",
+      "post_type": "receta",
+      "comment_count": "1"
     }
   ]
 }
